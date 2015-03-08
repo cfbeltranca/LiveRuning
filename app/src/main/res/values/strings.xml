@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">LiveRuning</string>
-    <string name="hello_world">Hola Mundo APK CB editado en remoto</string>
+    <string name="hello_world">Hola Mundo APK CB editado en Local</string>
     <string name="action_settings">Settings</string>
 </resources>
